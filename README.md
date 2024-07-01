@@ -1,9 +1,8 @@
 # SOAP-API-MYSQL-PHP-PAGINATION
 SOAP API with MYSQL PHP in 20 mins
 
-Sure, here's a description you can use for your GitHub repository `SOAP-API-MYSQL-PHP-PAGINATION`.
+![cover](https://github.com/TravelXML/SOAP-API-MYSQL-PHP-PAGINATION/assets/8361967/d47d4e95-f103-4b7d-be7f-d1f92102acdd)
 
----
 
 This project demonstrates how to set up a SOAP API using PHP and MySQL with pagination support. The application is containerized using Docker to ensure a consistent and reproducible environment. It also includes a simple rate limiting mechanism and JWT authentication for secure API access.
 
