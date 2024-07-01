@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:example:products">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <urn:getProducts>
+         <page>0</page>
+         <limit>10</limit>
+         <token>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ5b3VyLWlzc3VlciIsImF1ZCI6InlvdXItYXVkaWVuY2UiLCJpYXQiOjE2ODg1MjY2NzYsIm5iZiI6MTY4ODUyNjY3NiwidW5leHBpcmVkIjoxNjg4NTMwMjc2LCJkYXRhIjp7InVzZXJJZCI6MSwidXNlcm5hbWUiOiJleGFtcGxldXNlciJ9fQ.vlU6c3quY0jOZh1yU_4bYRmtaM8W84cErLwG5S1Zj14</token>
+      </urn:getProducts>
+   </soapenv:Body>
+</soapenv:Envelope>

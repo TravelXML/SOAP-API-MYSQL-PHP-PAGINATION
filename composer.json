@@ -1,0 +1,13 @@
+{
+    "name": "travelxml/soap-api",
+    "description": "SOAP API with rate limiting and JWT authentication",
+    "require": {
+        "firebase/php-jwt": "^5.5",
+        "ext-redis": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "./"
+        }
+    }
+}
